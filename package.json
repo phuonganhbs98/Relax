@@ -1,0 +1,19 @@
+{
+  "name": "relax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "joke.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phuonganhbs98"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "readline-sync": "^1.4.9"
+  }
+}
